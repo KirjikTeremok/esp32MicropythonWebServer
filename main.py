@@ -13,8 +13,8 @@ GPIO2.value(0);
 GPIO1_state = "GPIO 1 is OFF"
 GPIO2_state = "GPIO 2 is OFF"
 
-ssid = 'TP-Link_ACE4'   # название сети
-password = '79893169'   # пароль
+ssid = '*********'   # название сети
+password = '*********'   # пароль
 
 wlan = network.WLAN(network.STA_IF)
 
